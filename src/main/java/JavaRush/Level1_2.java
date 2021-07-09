@@ -114,6 +114,7 @@ public class Level1_2 {
         System.out.println(b.toUpperCase());
         System.out.println(a.toLowerCase());
          */
+        /*
         Scanner scanner = new Scanner(System.in);
 
 
@@ -124,5 +125,6 @@ public class Level1_2 {
         // выводим на экран значение - результат вычисления выражения
         // (i1 + i2 + i3) / 3
         System.out.println((i1 + i2 + i3) / 3);
+         */
     }
-}
+} //дописываем строку
